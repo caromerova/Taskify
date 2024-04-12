@@ -34,6 +34,14 @@ body
     padding: 5px; /* Espaciado interno */
   }
 
+  /*algunos estilos en el formulario de crear nueva tarea*/
+  #descripcion-tarea {
+    width: 100%; /* Ajustar el ancho del campo de texto al 100% del contenedor */
+    height: auto; /* Ajustar la altura automáticamente */
+    resize: none; /* Evitar que el área de texto sea redimensionable por el usuario */
+}
+
+
   /*estilos del footer*/
   footer
   {
